@@ -36,3 +36,7 @@ originalne slike iz Figme u punoj veličini.
 __
 Odabirom elementa unutar galerije, kao što je pretpostavljeno, otvara se overlay preko tog elementa. Overlay je potrebno zatvoriti prije nego se može odabrati drugi element. Takva funkcionalnost 
 implementirana je namjerno, a ukoliko je potrebno, moguće je staviti i da se odabirom drugog elementa automatski zatvara overlay dosad otvorenog. 
+
+8. 
+__
+Jedan od fontova unutar Figme je custom pa ga nisam mogao koristiti nego je umjesto njega korišteni drugi dostupni preuzet sa DaFont.com
