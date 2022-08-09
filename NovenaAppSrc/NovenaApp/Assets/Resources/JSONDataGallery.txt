@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "Prva Gradina",
+        "IconLocation": "StreamingAssets/sprite01"
+    },
+    {
+        "Name": "Druga Gradina",
+        "IconLocation": "StreamingAssets/sprite02"
+    },
+    {
+        "Name": "Treća Gradina",
+        "IconLocation": "StreamingAssets/sprite03"
+    },
+    {
+        "Name": "Četvrta Gradina",
+        "IconLocation": "StreamingAssets/sprite04"
+    },
+    {
+        "Name": "Peta Gradina",
+        "IconLocation": "StreamingAssets/sprite05"
+    },
+    {
+        "Name": "Šesta Gradina",
+        "IconLocation": "StreamingAssets/sprite06"
+    },
+    {
+        "Name": "Sedma Gradina",
+        "IconLocation": "StreamingAssets/sprite07"
+    },
+    {
+        "Name": "Osma Gradina",
+        "IconLocation": "StreamingAssets/sprite08"
+    },
+    {
+        "Name": "Deveta Gradina",
+        "IconLocation": "StreamingAssets/sprite04"
+    },
+    {
+        "Name": "Deseta Gradina",
+        "IconLocation": "StreamingAssets/sprite02"
+    }
+]
